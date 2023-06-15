@@ -11,7 +11,6 @@ sudokuGUI.py (given by the course to visualize the Sudoku)
 3 Algorithms were implemented to solve easy, medium, and hard difficulty sudokus. 
 
   1. AC-3 Algorithm: 
-
     Iterates through each arc (pairing of two cells on the sudoku), checks for and removes inconsistencies in the domain (list of possible values) of the two cells until there are no inconsistencies left. It should return a complete solution for easy difficulty sudokus. 
     
   2. Improved AC-3 Algorithm:
