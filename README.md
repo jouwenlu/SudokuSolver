@@ -4,7 +4,7 @@ SudokuSolver using the AC-3 algorithm and inference and guessing algorithm to so
 *Note: This was originally an independent homework assignment from an Artificial Intelligence class. 
 
 ### Source Files
-sudokuSolver.py  
+sudoku.py  
 sudokuGUI.py (given by the course to visualize the Sudoku)
 
 ### Overview of Work Done
